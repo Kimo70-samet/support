@@ -1,0 +1,14 @@
+{
+  "name": "screen-capture-server",
+  "version": "1.0.0",
+  "description": "خادم استقبال لقطات الشاشة",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.2"
+  }
+}
